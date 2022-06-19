@@ -12,6 +12,10 @@ git init
 
 git clone
 
+git commit -m
+
+git push origin main/master
+
 git remote -m
 
 git remote add origin
